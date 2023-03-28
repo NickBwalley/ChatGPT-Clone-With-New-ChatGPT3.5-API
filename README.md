@@ -1,3 +1,3 @@
-Hey Champs!... 
-Join me in building an awesome ChatApp-With-New-ChatGPT-API
-Stay tuned ;)
+# Hey Champs!... 
+## Join me in building an awesome ChatApp-With-New-ChatGPT-API
+# Stay tuned ;)
